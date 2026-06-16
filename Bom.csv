@@ -1,0 +1,7 @@
+Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
+"Battery","Power Source",,12.00,"https://robu.in/product/nova-125785-10000mah-3-7v-lipo-battery-pack/","Robu"
+"PCB","Main-Circuit",,99.00,"","JLCPCB"
+"Toggle switch","On-Off",,3.00,"https://www.amazon.in/RoboComp-Center-Rocker-Toggle-Switch/dp/B0GW1SK6Y5?dib=eyJ2IjoiMSJ9.1CwHqbAUYwizY1Z1K0WZdKre8CLLDpprYbmEb_9PNTWqyjohjF5RvFQHYgcRSr029HxOQ9XFU9Yd2WoFSByQLTZC4mpo1z00oP6VspIr7XqntChIDTYswrf3dJoaJTSpmRr7esG0u7r-XJnCxbD7MD168vrldx863bm8NWvZ2WL-OKQtGgTEFOjLlDHG3WGsgi2VIhzc2M38_9MY_n1VyhJtiu9AZsDnKbQQZl6pZYEsnpHDEuILOJHanJcoKXVOJf6PUo8NBcmJ2H5TxdEh0F4194ktdUkxSr8JhkX-HH0.AAfvh377-khgNbQY7kIIHbfBj4w8bifQznZzReEkcW0&dib_tag=se&qid=1781184118&refinements=p_n_g-1003565985111%3A61707331031&s=industrial&xpid=CJ1-0rXLg6M1t&th=1","Amazon"
+"XIAO nRF52840","Bluetooth SoC",,29.00,"https://www.amazon.in/Seeed-Studio-XIAO-Nordic-nRF52840/dp/B09T9VVQG7","Amazon"
+"Speaker","Main Driver",,9.00,"https://www.parts-express.com/Dayton-Audio-DMA45-4-1-1-2-Dual-Magnet-Aluminum-Cone-Full-Range-Driver-4-Ohm-295-580?quantity=1","Parts Express"
+"Dayton Audio ND65-PR ","Radiator for Depth",,10.00,"https://www.parts-express.com/Dayton-Audio-ND65-PR-2-1-2-Aluminum-Cone-Passive-Radiator-290-205?quantity=1","Parts Express"
