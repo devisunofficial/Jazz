@@ -18,8 +18,8 @@ Made in Autodesk Fusion.
 ### PCB:
 Here's my PCB! It was made in KiCad. 
 
-Schematic : ![Complete Jazz](Assets\Schematic.png)
-PCB Footprint : ![Complete Jazz](Assets\PCB.png)
+Schematic : ![Complete Jazz](Assets/Schematic.png)
+PCB Footprint : ![Complete Jazz](Assets/PCB.png)
 
 ### Firmware Overview:
 Currently Firmware is underdevelopment so there is some time to finished product.
