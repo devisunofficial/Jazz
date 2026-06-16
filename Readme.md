@@ -12,7 +12,6 @@ It focuses on minimalism and uses Audiophile grade equipments for good soundqual
  - Daytone Speaker and Passive Radiator
 
 ### CAD Model:
-
 It has 3 separate printed pieces. The Enclousure, the Speaker Holder to support driver and passive radiator, and Top mesh to cover driver.
 Made in Autodesk Fusion.
 
@@ -28,4 +27,11 @@ This speaker uses C++ firmware and Arduino IDE for Flashing.
 
 
 ### BOM Table
-|S. No.|Name|Use|Quantity|
+|Name|Use|Quantity|Distributer|
+|-----|---|-------|-----------|
+|Battery|Power Source|1|Robu|
+|PCB|Main-Circuit|1|JLCPCB|
+|Toggle switch|On-Off|1|Amazon|
+|XIAO nRF52840|Bluetooth SoC|1|Amazon|
+|Speaker|Main Driver|1|Parts Express|
+|Dayton Audio ND65-PR|Radiator for Depth|1|Parts Express|
