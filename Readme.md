@@ -34,8 +34,5 @@ This speaker uses C++ firmware and Arduino IDE for Flashing.
 |Toggle switch|On-Off|1|Amazon|
 |XIAO nRF52840|Bluetooth SoC|1|Amazon|
 |Speaker|Main Driver|1|Parts Express|
-<<<<<<< HEAD
 |Dayton Audio ND65-PR|Radiator for Depth|1|Parts Express|
-=======
 |Dayton Audio ND65-PR|Radiator for Depth|1|Parts Express|
->>>>>>> 8f4eb23d92ab44876a92482418d3d067267785e2
