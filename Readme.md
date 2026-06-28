@@ -25,6 +25,13 @@ PCB Footprint : ![Complete Jazz](Assets/PCB.png)
 Currently Firmware is underdevelopment so there is some time to finished product.
 This speaker uses C++ firmware and Arduino IDE for Flashing.
 
+### Assembly Instructions :
+1. Flash Firmware in XIAO ESO32
+2. Solder Pairing Switch, Kill Switch, Speaker, Battery
+3. Test everything works
+4. Apply Epoxy layer(not neccessary though but better if we do) inside shell
+5. Glue togetther the Speaker and Passive Radiater to Speaker holder (to prevent air from leaking) along with screws
+6. Screw Speaker holder and Top Mesh to Encloudure.
 
 ### BOM Table
 |Name|Use|Quantity|Distributer|
@@ -34,5 +41,4 @@ This speaker uses C++ firmware and Arduino IDE for Flashing.
 |Toggle switch|On-Off|1|Amazon|
 |XIAO nRF52840|Bluetooth SoC|1|Amazon|
 |Speaker|Main Driver|1|Parts Express|
-|Dayton Audio ND65-PR|Radiator for Depth|1|Parts Express|
 |Dayton Audio ND65-PR|Radiator for Depth|1|Parts Express|
