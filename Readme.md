@@ -29,7 +29,7 @@ This speaker uses C++ firmware and Arduino IDE for Flashing.
 1. Flash Firmware in XIAO ESO32
 2. Solder Pairing Switch, Kill Switch, Speaker, Battery
 3. Test everything works
-4. Apply Epoxy layer(not neccessary though but better if we do) inside shell
+4. Apply Epoxy layer(not neccessary though but better if we do) inside shell to prevent air from leaking
 5. Glue togetther the Speaker and Passive Radiater to Speaker holder (to prevent air from leaking) along with screws
 6. Screw Speaker holder and Top Mesh to Encloudure.
 
@@ -39,6 +39,12 @@ This speaker uses C++ firmware and Arduino IDE for Flashing.
 |Battery|Power Source|1|Robu|
 |PCB|Main-Circuit|1|JLCPCB|
 |Toggle switch|On-Off|1|Amazon|
-|XIAO nRF52840|Bluetooth SoC|1|Amazon|
+|XIAO ESP32|Bluetooth SoC|1|Amazon|
 |Speaker|Main Driver|1|Parts Express|
-|Dayton Audio ND65-PR|Radiator for Depth|1|Parts Express|
+|Capacitive Touch Button|Pairing Mode|1|Amazon|
+|AirTight Glue|Prevent Air Leaking|1|Amazon|
+
+I have provided an extra 3D printing Part in PR folder in CAD Folder because rather then paying $88 in shipping.
+I didn't made that, and I don't have refinement in skills to make that.
+
+Also I have added all screenshots of Cart in Screenshots_Cart Folder
