@@ -44,7 +44,9 @@ This speaker uses C++ firmware and Arduino IDE for Flashing.
 |Capacitive Touch Button|Pairing Mode|1|Amazon|
 |AirTight Glue|Prevent Air Leaking|1|Amazon|
 
+### Extra Stuff
 I have provided an extra 3D printing Part in PR folder in CAD Folder because rather then paying $88 in shipping.
-I didn't made that, and I don't have refinement in skills to make that.
+I didn't made that, and I don't have refinement in skills to make that. 
+#### **CREDITS**  https://www.thingiverse.com/zx82net
 
 Also I have added all screenshots of Cart in Screenshots_Cart Folder
